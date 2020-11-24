@@ -2,7 +2,7 @@ package com.pro;
 import java.util.Scanner;
 public class percentage_calculator {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        scanner input = new Scanner(System.in);
         System.out.println("Enter the marks of sub1");
         float Sub1 = input.nextFloat();
         System.out.println("Enter the marks of sub2");
